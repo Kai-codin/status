@@ -4,17 +4,17 @@
     "url": "https://www.mybustimes.cc",
     "icon": "https://icons.duckduckgo.com/ip3/www.mybustimes.cc.ico",
     "slug": "my-bus-times",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 337,
-    "timeDay": 348,
-    "timeWeek": 337,
-    "timeMonth": 337,
-    "timeYear": 337,
+    "time": 316,
+    "timeDay": 234,
+    "timeWeek": 316,
+    "timeMonth": 316,
+    "timeYear": 316,
     "dailyMinutesDown": {}
   }
 ]
